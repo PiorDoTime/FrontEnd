@@ -1,0 +1,47 @@
+/* lista menu */
+.menu{
+    list-style-type: none;
+    text-align: right;
+    margin: 30px 0;
+}
+
+.menu li{
+    display: inline-block;
+    padding: 0;
+}
+
+.menu a{
+    background-color: rgb(240, 235, 225);
+    padding: 16px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.menu a:hover{
+    background-color: #333;
+    color: #fff;
+}
+
+
+
+/* nav teste */
+
+header{
+    background-color: #ccc;
+    margin: 0;
+    text-align: right;
+    width: 100%;
+    
+    
+}
+
+nav{
+    display: inline-block;
+    padding: 10px;
+}
+
+nav a:hover{
+    border-bottom: 2px solid red;
+    transition: all 0.1s ease;
+    transform: translateX(-2px);
+}

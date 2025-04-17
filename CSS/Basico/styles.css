@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:azure;
+}
+h1{
+    color:#ff00ff;
+}
+
+
+h2{
+    text-transform:uppercase; /* Uppercase = Deixa o texto todo em MAIUSCULO*/
+    background-color: #73c8ec;
+    font-weight: normal;
+}
+
+
+h3{
+    text-transform: capitalize; /* Captilize = deixa a primeira letra da cada palavra MAIUSCULA */
+    text-align: center;
+    text-decoration: underline; /* Sublinha a palavra  */
+}
+
+a{
+    text-decoration: none; /*Tira o sublinhado o link*/
+}
+
+.papum{
+    color: red;
+}
+
+#papam{
+    color: orange;
+}

@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffffff;
+}
+
+h1{
+    width: 80%;
+    background-color: #c1bff0;
+    margin: 10px auto;
+    text-align: center;
+}
+
+h1, h2{
+    color: #1f2d93;
+    padding: 5px;
+    border-bottom:2px solid #1f2d93;
+}
+
+h2{
+    background-color: #ccc;
+}
+.p1{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    padding-left: 0;
+}
+
+li{
+    list-style-position: inside;
+}
+
+
